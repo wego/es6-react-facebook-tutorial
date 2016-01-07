@@ -1,6 +1,6 @@
 # Rewrite Facebook Tutorial using Babel 6, ES6 and Webpack
 
-A Full tutorial article can be found at: [Part 1: Rewrite Facebook Tutorial using Babel 6, ES6 and Webpack]( http://engineering.wego.com/rewrite-facebook-tutorial-using-babel-6-es6-and-webpack/).
+A Full tutorial article can be found at: [Part 1: Rewrite Facebook Tutorial using Babel 6, ES6 and Webpack]( http://geeks.wego.com/rewrite-facebook-tutorial-using-babel-6-es6-and-webpack/).
 
 ## Basic Setup
 
